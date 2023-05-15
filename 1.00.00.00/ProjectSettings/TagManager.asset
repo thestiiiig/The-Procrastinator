@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TaskItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 1627192179
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 1
+  - name: KitchenItems
+    uniqueID: 2395540481
+    locked: 0
+  - name: BaseMission
+    uniqueID: 919292187
+    locked: 0
+  - name: WorkingMission
+    uniqueID: 4229736937
+    locked: 0
+  - name: TopMission
+    uniqueID: 3685682113
+    locked: 0
+  - name: player
+    uniqueID: 157594889
+    locked: 0
+  - name: LaundryBackground
+    uniqueID: 4146555739
+    locked: 0
+  - name: LaundryBaseMission
+    uniqueID: 222808123
+    locked: 0
+  - name: LaundryWorkingMission
+    uniqueID: 1838410867
+    locked: 0
+  - name: LaundryTopMission
+    uniqueID: 1780924085
+    locked: 0
+  - name: LaundryPlayer
+    uniqueID: 528160345
+    locked: 0
+  - name: DialogueLayer
+    uniqueID: 2899760807
+    locked: 0
+  - name: TODOlist
+    uniqueID: 783545349
+    locked: 0
